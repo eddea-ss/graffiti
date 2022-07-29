@@ -12,13 +12,8 @@ Automata Finito No-Determinista
 #### Instrucciones
 
 0. Descargar desde Github.
-0. Ejecutar los siguientes comandos:
-
-```shell
-tar -xzy GraphDrawer.tar
-cd GraphDrawer
-java -jar GraphDrawer.jar
-```
+1. Cargar proyecto desde Idea u otro id de su eleccion.
+2. Ejecutar archivo src/Main.java
 
 #### Herramientas utilizadas
 - IntelliJ IDEA 2017.1.2
