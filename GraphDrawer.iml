@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/api" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/attach/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/javac/tree" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/javadoc/doclet" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/jconsole/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/jpda/jdi" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jdk/api/nashorn" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/accessibility/jaccess/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/javaws/jnlp" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/management/cmm" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/management/extension" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/management/rm" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/net/httpserver/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/net/socketoptions/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/nio/sctp/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/plugin/dom" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/security/jaas/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/security/jgss/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/jre/api/security/smartcardio/spec" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/2d/samples" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/beans/examples" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/imf/api-sample" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/io/example" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/javadoc/taglet" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Basic" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Descriptors" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Essential" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Lookup" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/MXBean" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Notification" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/fine_grained/client" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/fine_grained/mbeans" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/fine_grained/server" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/simple/client" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/simple/mbeans" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/simple/server" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/subject_delegation/client" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/subject_delegation/mbeans" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jmx/examples/Security/subject_delegation/server" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jpda" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/jps/spec" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/lang" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/crypto" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jgss/lab/src" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jgss/tutorials" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/rmi" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/sni" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/sockets/client" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/sockets/server" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/sslengine" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/jsse/samples/urls" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/security/xmldsig" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/altimpl" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/custom" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/evolvenewsuper" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/evolveserial" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/externpers" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/externsuper" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/nonexternsuper" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/nonserialsuper" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/sockets" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/serialization/examples/symbol" />
+          <root url="jar://$USER_HOME$/Documents/docs java jdk 121/jdk-8u131-docs-all.zip!/docs/technotes/guides/swing/1.4" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="undofx-fat-1.3.1" level="project" />
+  </component>
+</module>
